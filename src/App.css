@@ -1,5 +1,6 @@
+
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -23,11 +24,11 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/* .container {
+  height: 100vh;
+  font-size: 40px;
+  width: 100%;
+  display: grid;
+  grid-template-columns:16.5% 16.5% 16.5% 16.5% 16.5% 16.5%;
+  grid-template-rows:  24% 24% 24% 24% ;
+} */
